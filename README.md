@@ -1,5 +1,3 @@
-# Drmo_ali
-Mo ali
 <!DOCTYPE html>
 <html lang="en">
 
